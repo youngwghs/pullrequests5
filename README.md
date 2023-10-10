@@ -8,7 +8,7 @@
 -->
 
 # Review pull requests
-
+# Press F5 to refresh the game.
 _Collaborate and work together on GitHub._
 
 </header>
